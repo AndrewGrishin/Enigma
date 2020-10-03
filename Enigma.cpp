@@ -1,3 +1,6 @@
+// Compile with: "g++ Enigma.cpp -o Enigma"
+// Launch with: "./Enigma encrypt" or ""./Enigma decrypt""
+
 #include <iostream>
 #include <cmath>
 #include <string>
