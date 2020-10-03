@@ -1,2 +1,2 @@
 # Enigma
-Updated version of Enigma, use in the Second World Word.
+Updated version of Enigma encrypting, used in the Second World Word.
