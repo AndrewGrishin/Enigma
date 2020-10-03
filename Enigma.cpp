@@ -210,8 +210,3 @@ int main(int argc, char* argv[]) {
         na.decrypt();
     return 0;
 }
-
-// loop
-// key injector
-// mixing classes
-// phone edition
